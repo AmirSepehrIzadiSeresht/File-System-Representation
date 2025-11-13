@@ -63,7 +63,7 @@ public class FileSysRep {
 
     public static void main(){
         
-        File root = new File("F:\\C# intermediate tutorial");
+        File root = new File("___your directory___");
         
         List<Integer> path = new ArrayList<>();
         System.out.println("");
@@ -77,4 +77,5 @@ public class FileSysRep {
         // System.out.println("elapsed time: " + elapsed);
         // System.out.println("directory count: " + dirCount);
     }
+
 }
